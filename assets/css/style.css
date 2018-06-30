@@ -1,0 +1,57 @@
+body {
+    background-image: url("../images/background.png");
+    margin: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: whitesmoke;
+    padding: 20px;
+    border: solid 2px rgba(179, 179, 179, 0.938);
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+#nameheader {
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    border: solid 2px rgba(212, 138, 0, 0.678);
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#instructions {
+    background-color: burlywood;
+    color: green;
+    padding: 20px;
+    border: solid 2px rgba(179, 149, 110, 0.822);
+    margin-bottom: 15px;
+}
+
+#goalbox {
+    background-color: mediumaquamarine;
+    color: maroon;
+    padding: 20px;
+    border: solid 2px rgba(77, 153, 127, 0.658);
+    margin-bottom: 15px;
+}
+
+#scorebox {
+    background-color: lightskyblue;
+    color: maroon;
+    padding: 20px;
+    border: solid 2px rgba(104, 158, 192, 0.884);
+    margin-bottom: 15px;
+}
+
+#totalbox {
+    background-color: teal;
+    color: white;
+    padding: 20px;
+    border: solid 2px rgba(0, 97, 97, 0.774);
+    margin-bottom: 15px;
+}
